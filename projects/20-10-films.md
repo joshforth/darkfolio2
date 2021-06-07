@@ -1,6 +1,6 @@
 ---
 title: 20 / 10 Films
-thumbnail: ''
+thumbnail: "../static/uploads/e5f3f751944227.58ff649a8da1f.jpg"
 year: "2021"
 categories:
 - Home
