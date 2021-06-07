@@ -9,13 +9,6 @@ sections:
   label: Pages
   create: all
   match: "**/*"
-  templates:
-  - project
-- type: directory
-  path: projects
-  label: Projects
-  create: all
-  match: "**/*"
 - type: document
   path: src/data/theme.json
   label: Theme options
