@@ -2,15 +2,15 @@
 label: Home
 hide_body: false
 fields:
-- type: text
-  name: title
-  label: title
 - type: file
   name: thumbnail
   label: thumbnail
 - type: text
   name: year
   label: year
+- type: text
+  name: title
+  label: title
 - type: list
   name: categories
   label: categories
